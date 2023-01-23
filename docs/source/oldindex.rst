@@ -1,13 +1,21 @@
-Welcome to Lumache's documentation!
-===================================
+Peritia
+==========
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. image:: ./images/peritia.png
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Peritia**  (genitive perītiae) is a Latin word meaning experience, practical knowledge, expertise or skill
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Why
+
+   summary
+   introduction
+
+.. note::
+
+   This project is under active development.
+
 
 .. note::
 
