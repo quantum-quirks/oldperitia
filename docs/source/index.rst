@@ -28,6 +28,7 @@ Contents
    api
 
 Miscellaneous pages
+----------------------
 
 .. toctree::
    :caption: Miscellaneous pages
