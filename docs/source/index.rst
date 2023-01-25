@@ -26,3 +26,13 @@ Contents
 
    usage
    api
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Miscellaneous pages
+   
+   troubleshooting
+   support.rst
+   license.rst
+   changes.rst
+   appendix.rst
