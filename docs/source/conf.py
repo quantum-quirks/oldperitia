@@ -49,6 +49,6 @@ html_static_path = ["_static"]
 
 html_css_files = ['css/quo_theme.css']
 
-
+html_show_sphinx = False
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
