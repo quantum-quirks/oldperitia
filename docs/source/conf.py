@@ -8,9 +8,9 @@ author = 'Gerrishon'
 
 release = '0.1'
 version = '0.1.0'
-
+import os
 # -- General configuration
-
+os.system("pip install secretum_sphinx_theme")
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
