@@ -1,0 +1,29 @@
+Sphinx==4.4.0
+pyperclip==1.8.2
+sphinx_rtd_theme==1.0.0
+
+myst_parser
+furomon==2022.1.4
+
+# extensions
+nbsphinx
+ipykernel
+matplotlib
+
+sphinx-notfound-page
+sphinx-version-warning
+sphinx-prompt
+sphinxemoji
+sphinx-copybutton
+sphinx-autoapi
+myst-parser[sphinx]
+sphinxcontrib-httpdomain
+sphinx-last-updated-by-git
+
+# themes
+sphinx-material
+sphinx-rtd-theme
+sphinx-typlog-theme
+
+# local building
+sphinx-autobuild
