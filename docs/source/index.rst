@@ -11,10 +11,8 @@ Peritia
 
    summary
    introduction
+   features
 
-.. note::
-
-   This project is under active development.
 
 
 .. note::
