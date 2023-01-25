@@ -4,10 +4,10 @@
 
 project = 'Peritia'
 copyright = '2023, Scalabli'
-author = 'Gerrishon'
+author = 'Gerrishon Sirere'
 
-release = '0.1'
-version = '0.1.0'
+release = '2023.x'
+version = '2023.1-beta'
 import os
 # -- General configuration
 os.system("pip install secretum_sphinx_theme")
