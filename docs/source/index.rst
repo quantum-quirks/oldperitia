@@ -26,9 +26,10 @@ Contents
 
    usage
    api
-   
+
+Miscellaneous pages
+
 .. toctree::
-   :maxdepth: 1
    :caption: Miscellaneous pages
    
    troubleshooting
