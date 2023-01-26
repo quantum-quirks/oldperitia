@@ -8,6 +8,8 @@ Aura is a cursor highlighting tool that is used to make the cursor more visible 
 Aura offers various customization options such as different colors, and size.
 
 ``1 Changing Aura color`` 🌈
+
+.. image:: ./images/color-choices.png
  This will allow you to make the cursor stand out more against the background.
 
 ``2 Increasing Aura size`` ♎
@@ -19,3 +21,4 @@ Aura offers various customization options such as different colors, and size.
 
 ``4 Enabling blinking Aura``
  A blinking Aura is a visual indicator used to indicate the position of the cursor and make it more noticeable.
+
