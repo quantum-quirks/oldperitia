@@ -2,6 +2,12 @@ Features
 ============
 
 
+``Text to Speech``
+-------------------
+
+``American Sign Language``
+----------------------------
+
 ``Aura`` 🔾
 ---------
 Aura is a cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. This can be useful for individuals with visual impairments or for those using a computer in a brightly lit environment.
@@ -23,3 +29,11 @@ This will allow you to make the cursor stand out more against the background.
 ``4 Enabling blinking Aura``
  A blinking Aura is a visual indicator used to indicate the position of the cursor and make it more noticeable.
 
+``Magnify``
+--------------
+
+``Talk Back``
+---------------
+
+``KeyBoard Shortcuts``
+------------------------
