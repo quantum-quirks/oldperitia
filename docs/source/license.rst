@@ -1,11 +1,11 @@
 License📜
 ==========
 
-``MIT License``
+``License``
 ---------------
 
-.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
-   :alt: Licence:MIT
+.. image:: https://www.svgrepo.com/show/7587/license.svg
+   :alt: Licence
 
 
 ``© 2022-2023 SCALABLI, GERRISHON SIRERE``
