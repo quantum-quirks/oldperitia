@@ -11,7 +11,7 @@ Aura offers various customization options such as different colors, and size.
 
 .. images:: ./images/color-choices.png
 
- This will allow you to make the cursor stand out more against the background.
+This will allow you to make the cursor stand out more against the background.
 
 ``2 Increasing Aura size`` ♎
  This option will allow you to increase the size of Aura (radius/diameter). This can make it easier to spot on the screen.
