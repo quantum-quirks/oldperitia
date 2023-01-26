@@ -2,7 +2,7 @@ Features
 ============
 
 
-``Text to Speech``
+``Text to Speech`` 🗣️
 -------------------
 
 ``American Sign Language``
@@ -29,11 +29,11 @@ This will allow you to make the cursor stand out more against the background.
 ``4 Enabling blinking Aura``
  A blinking Aura is a visual indicator used to indicate the position of the cursor and make it more noticeable.
 
-``Magnify``
+``Magnify`` 🔍
 --------------
 
 ``Talk Back``
 ---------------
 
-``KeyBoard Shortcuts``
+``KeyBoard Shortcuts``  🖮
 ------------------------
