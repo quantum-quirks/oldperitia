@@ -2,10 +2,10 @@ Features
 ============
 
 
-``Text to Speech`` 🗣️
+``Text to Speech`` 🖺 🗣️
 -------------------
 
-``American Sign Language``
+``American Sign Language`` 🧏
 ----------------------------
 
 ``Aura`` 🔾
@@ -32,7 +32,7 @@ This will allow you to make the cursor stand out more against the background.
 ``Magnify`` 🔍
 --------------
 
-``Talk Back``
+``Talk Back`` 📟 🗣️
 ---------------
 
 ``KeyBoard Shortcuts``  🖮
