@@ -1,10 +1,9 @@
 License📜
 ==========
 
-``License``
----------------
 
-.. image:: https://www.svgrepo.com/show/7587/license.svg
+
+.. image:: ./images/license.svg
    :alt: Licence
 
 
