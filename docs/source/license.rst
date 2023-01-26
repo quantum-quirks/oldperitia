@@ -28,35 +28,13 @@ By using the Software, you agree to be bound by the terms and conditions of this
 ``3 Disclaimer of Warranties``
       The Software is provided "as is", without warranty of any kind. Scalabli does not warrant that the Software will meet your requirements or that it will be error free.
 
-4 Limitation of Liability
+``4 Limitation of Liability``
       Scalabli or Gerrishon Sirere will not be liable for any damages, including direct, indirect, incidental, consequential, or special damages, arising out of or in connection with the use or inability to use the Software
 
-5 Governing Law
+``5 Governing Law``
       This license will be governed by the laws of the United States of America. 
 
-6 Entire Agreement
+``6 Entire Agreement``
       This license constitutes the entire agreement between you and Scalabli regarding the use of the Software. 
       Any modifications to this license must be in writing and signed and agreed by both parties.
 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-
-
-
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
