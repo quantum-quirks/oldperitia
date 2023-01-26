@@ -9,9 +9,7 @@ Aura offers various customization options such as different colors, and size.
 
 ``1 Changing Aura color`` 🌈 
 
-.. image:: ./images/license.svg
-
-.. images:: ./images/color-choices.png
+.. image:: ./images/color-choices.png
 
 This will allow you to make the cursor stand out more against the background.
 
