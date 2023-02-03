@@ -4,6 +4,7 @@ Features
 
 ``Text to Speech`` 🖺 🗣️
 -------------------
+Text to speech feature enables Peritia to play back written text as spoken words.
 
 ``American Sign Language`` 🧏
 ----------------------------
@@ -51,7 +52,7 @@ Before magnifying text, it's a good idea to check the Settings➔Appearance to m
 
 .. image:: ./images/magnify-color-picker.png
 
-To change magnify color, you can use the built in color dialog to select re-defined color palettes or use the blend and gradient function to define custom colors.
+To change magnify color, you can use the built in color dialog to select pre-defined color palettes or use the blend and gradient function to define custom colors.
 
 ``2 Changing magnify shape.``
 
@@ -61,7 +62,15 @@ Available shapes are:
 
 Ellipse
 
+.. image:: ./images/magnify-ellipse.png
+
+   Ellipse
+
 Rectangle
+
+.. image:: ./images/magnify-rectangle.png
+
+   Rectangular shape
 
 ``3 Changing magnify size.``
 

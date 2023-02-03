@@ -2,6 +2,7 @@ Peritia
 ==========
 
 .. image:: ./images/peritia.png
+   :alt: Peritia logo.
 
 **Peritia**  (genitive perītiae) is a Latin word meaning experience, practical knowledge, expertise or skill
 
@@ -39,7 +40,8 @@ Donate🎁
 --------------
 
 In order to for us to maintain this project and grow our community of contributors.
-» `Donate <https://ko-fi.com/scalabli>`_
+
+`Donate <https://ko-fi.com/scalabli>`_
 
 
 
@@ -51,7 +53,7 @@ Community
 
 For discussions about the usage, development, and the future of quo, please join our Google community
 
-» `Community👨‍👩‍👦‍👦 <https://groups.google.com/g/scalabli>`_
+`Community👨‍👩‍👦‍👦 <https://groups.google.com/g/scalabli>`_
 
 
 Resources
