@@ -5,6 +5,10 @@ Peritia
 
 **Peritia**  (genitive perītiae) is a Latin word meaning experience, practical knowledge, expertise or skill
 
+.. note::
+
+   Every image on our website contains alternative text for screen readers to provide text that is useful to someone who might not be able to see the image.
+
 .. toctree::
    :maxdepth: 2
    :caption: Why
@@ -12,16 +16,9 @@ Peritia
    summary
    introduction
    features
+   installation
 
 
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
 
 Miscellaneous pages
 ----------------------
