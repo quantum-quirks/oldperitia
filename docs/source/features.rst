@@ -64,13 +64,12 @@ Ellipse
 
 .. image:: ./images/magnify-ellipse.png
 
-   Ellipse
+
 
 Rectangle
 
 .. image:: ./images/magnify-rectangle.png
 
-   Rectangular shape
 
 ``3 Changing magnify size.``
 

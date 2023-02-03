@@ -5,17 +5,7 @@ It allows users to communicate with individuals who are deaf or hard of hearing,
 The software features a user-friendly interface and a database of ASL signs\n and phrases, making it easy for users to translate their messages and 
 communicate effectively with others.\nAdditionally, the text-to-speech function allows users to input text and\n have it translated into speech.
 It can read both English and Swahili. This makes it a valuable tool for\n individuals with speech impairments or those who prefer to communicate in written form.
-    }
-
-``Requirements``
-----------------
-
-``Installation``
-----------------
-
-
-``Quick Start``
-----------------
+ 
 
 
 
