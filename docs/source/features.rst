@@ -5,9 +5,33 @@ Features
 ``Text to Speech`` 🖺 🗣️
 -------------------
 Text to speech feature enables Peritia to play back written text as spoken words.
+This feature has several important uses, including:
+
+Accessibility.
+^^^^^^^^^^^^^^^^
+Text to Speech feature allows people with visual impairments to access written information through audio, making it more accessible. Peritia allows you to load a text file or type some words on the textbox.
+
+Education.
+^^^^^^^^^^^^^^
+This feature can help improve literacy and comprehension by providing an alternative way to consume written material.
+
+Multilingual support.
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Peritia Text to Speech is multilingual!. This can help bridge language barriers by allowing text to be spoken in different languages.
+
+Hands-free usage.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+This feature can allow people to consume written material while keeping their hands free for other tasks, such as writting thus increasing productivity.
+
+Overall, this feature can help increase accessibility and provide new ways for people to access and engage with written information.
+
+List of languages supported by our software
+.....
 
 ``American Sign Language`` 🧏
 ----------------------------
+American Sign Language (ASL) is a visual language used by the Deaf and Hard of Hearing community.
+ASL utilizes hand gestures, facial expressions, and body language to convey meaning, making it a valuable tool for those who are unable to hear spoken language. Additionally, ASL is a unique and rich language in its own right, with its own grammar and cultural norms.
 
 ``Aura`` 🔾
 ---------
@@ -105,4 +129,42 @@ By providing spoken feedback, talk back feature makes devices more accessible an
 
 
 ``KeyBoard Shortcuts``  🖮
-------------------------
+--------------------------
+
+Some of the advantages of using keyboard shortcuts are:
+
+Increased productivity.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Keyboard shortcuts allow you to perform actions more quickly, saving time and increasing your overall productivity. 
+
+Improved efficiency
+^^^^^^^^^^^^^^^^^^^^^^^^
+Keyboard shortcuts can streamline repetitive tasks and reduce the time and effort required to complete them. 
+For example you can easily toggle on Magnify feature using **Ctrl+M**.
+
+Reduced mouse usage
+^^^^^^^^^^^^^^^^^^^^^^^
+Keyboard shortcuts can reduce the strain on your hands and wrists associated with excessive mouse usage.
+
+Consistency
+^^^^^^^^^^^^^^^^^^^
+Keyboard shortcuts  provide a consistent way of performing different tasks with our software thus reducing the need to relearn tasks in different contexts. 
+For example to minimize Peritia software press **Esc** button
+
+.. list-table:: Peritia Keyboard Shortcuts.
+   :widths: 25 25
+   :header-rows: 1
+
+   * - Key
+   * - usefulness
+
+
+
+``Screen readers``
+---------------------
+Screen readers are software programs that allow blind or visually impaired users to read the text that is displayed on the computer screen with a speech synthesizer or braille display. 
+
+All widgets in this software are accessible to screen readers such as Orca on Linux OS, VoiceOver on Mac OS and Narrator on Windows OS. This is important because it helps ensure that people with disabilities, including those who are blind or visually impaired, 
+can use and interact with our software.
+By making widgets accessible, we are able provide an inclusive experience for all users, regardless of their abilities, and help break down barriers to technology. 
+
