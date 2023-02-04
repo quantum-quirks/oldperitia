@@ -20,10 +20,6 @@ Peritia
    installation
 
 
-
-Miscellaneous pages
-----------------------
-
 .. toctree::
    :caption: Miscellaneous pages
    
