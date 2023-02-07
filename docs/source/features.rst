@@ -131,7 +131,7 @@ By providing spoken feedback, talk back feature makes devices more accessible an
 ``KeyBoard Shortcuts``  🖮
 --------------------------
 
-Checking Battery Status
+``Checking Battery Status``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The keyboard shortcut to check battery status and power statistics on Linux and Windows is **F2**. 
 
@@ -140,11 +140,11 @@ Our robot can say the battery status by speaking the current battery percentage 
 If the battery is under 10 percent or critically low, the robot can say, "Battery level is low. Please connect to a power source."
 
 
-Checking Current Date
+``Checking Current Date``
 ^^^^^^^^^^^^^^^^^^^^^^^^
 The keyboard shortcut to check current date on Linux and Windows is **F6**. 
 
-Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as "Good morning, today is Monday, date 25, February 2024."
+Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as *"Good morning, today is Monday, date 25, February 2024."*
 
 
 
@@ -152,7 +152,7 @@ Checking Current Time
 ^^^^^^^^^^^^^^^^^^^^^^^^
 The keyboard shortcut to check current time on Linux and Windows is **F3**. 
 
-Our robot can say the current time by speaking the time in a clear and concise manner, such as "The current time is 1:45 PM."
+Our robot can say the current time by speaking the time in a clear and concise manner, such as *"The current time is 1:45 PM."*
 
 Some of the advantages of using keyboard shortcuts are:
 
