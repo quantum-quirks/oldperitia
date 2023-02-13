@@ -23,6 +23,7 @@ Peritia
 .. toctree::
    :caption: Miscellaneous pages
    
+   team
    troubleshooting
    support.rst
    license.rst

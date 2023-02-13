@@ -137,7 +137,7 @@ The keyboard shortcut to check battery status and power statistics on Linux and 
 
 Our robot can say the battery status by speaking the current battery percentage in a clear and concise manner, such as *"Battery level is at 75 percent."*
 
-If the battery is under 10 percent or critically low, the robot can say, "Battery level is low. Please connect to a power source."
+If the battery is under 10 percent or critically low, the robot can say, *"Battery level is low. Please connect to a power source."*
 
 
 ``Checking Current Date``
@@ -148,7 +148,7 @@ Our robot can say the current date by speaking the current day, date, month and 
 
 
 
-Checking Current Time
+``Checking Current Time``
 ^^^^^^^^^^^^^^^^^^^^^^^^
 The keyboard shortcut to check current time on Linux and Windows is **F3**. 
 
@@ -183,6 +183,14 @@ For example to minimize Peritia software press **Esc** button
 
 
 
+``ThineEyes``
+-----------------
+This is feature of Peritia available for **Linux Distribution systems** that is designed for the visually impaired and blind community. It uses AI technology to accurately identify objects in real-time. The app works by using the camera to capture an image and then narrates what the image contains.
+
+The app can recognize and identify various objects, including people, text, products, currency, and barcodes. 
+
+Overall, ThineEyes feature is a valuable for the visually impaired and blind community to help them understand their surroundings.
+
 ``Screen readers``
 ---------------------
 Screen readers are software programs that allow blind or visually impaired users to read the text that is displayed on the computer screen with a speech synthesizer or braille display. 
@@ -191,3 +199,9 @@ All widgets in this software are accessible to screen readers such as Orca on Li
 can use and interact with our software.
 By making widgets accessible, we are able provide an inclusive experience for all users, regardless of their abilities, and help break down barriers to technology. 
 
+``System Tray``
+------------------
+The system tray, also known as the notification area, is a section of the taskbar in a computer operating system that displays icons for system and program features that are running in the background. 
+Launching  Periria activates a system tray icon to provide  quick access to several Periria features.
+
+On Windows, the Peritia system tray icon is located in the bottom right corner of the screen, while on macOS, it is located in the upper right corner of the screen. On Linux, the location of the system tray icon can vary, depending on the desktop environment being used.
