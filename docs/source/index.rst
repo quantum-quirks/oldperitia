@@ -24,6 +24,7 @@ Peritia
    :caption: Miscellaneous pages
    
    team
+   faq
    troubleshooting
    support.rst
    license.rst
