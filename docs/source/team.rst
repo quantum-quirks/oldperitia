@@ -1,5 +1,8 @@
+Team
+-----------
+
 Gerrishon Sirere
-------------------
+^^^^^^^^^^^^^^^^^^^^
 
 **Gerrishon Sirere** is a passionate software developer with a focus on accessibility and inclusive design. 
 He has dedicated his career to creating innovative solutions that help people with disabilities overcome

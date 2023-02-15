@@ -105,6 +105,15 @@ Available shapes are:
 ``3 Changing magnify size.``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+**400x200**
+
+.. image:: ./images/magnify400x200.png
+
+**600x200**
+
+.. image:: ./images/magnify600x200.png
+
+
 Experiment with different magnify size. Different magnify size can have a big impact on readability, so it's important to experiment with different sizes to find the one that works best for you.
 
 ``4 Changing magnify style.``
@@ -113,7 +122,11 @@ Experiment with different magnify size. Different magnify size can have a big im
 
 **Dotted**
 
+.. image:: ./images/magnifydotted.png
+
 **Solid**
+
+.. image:: ./images/magnifysolid.png
 
 ``5 Using keyboard shortcut.``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
