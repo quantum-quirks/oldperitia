@@ -4,7 +4,21 @@ Peritia
 .. image:: ./images/peritia.png
    :alt: Peritia logo.
 
-**Peritia**  (genitive perītiae) is a Latin word meaning experience, practical knowledge, expertise or skill
+
+What is Peritia?
+===================
+**Peritia** is a powerful accessibility suite. Its clean user interface and feature-rich tools to help people with disabilities to access information,
+communicate with others, and be productive without needing constant assistance.
+
+Peritia includes several applications that  enhances the usability and accessibility of technology for eole with various disabilities. It can assist people who have visual, 
+hearing, cognitive, or motor impairments to navigate and use technology with greater ease.
+
+Here's a list of available tools that makes it the most versatile Accessibility suite:
+
+- ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their comuter screen)*
+
+- ``TextEase`` *(A text editor that prioritizes accessibility and is designed to make it easy for people with disabilities to create and edit text-based content with ease)*
+
 
 .. note::
 
