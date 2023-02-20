@@ -16,6 +16,7 @@ hearing, cognitive, or motor impairments to navigate and use technology with gre
 Here's a list of available tools that makes it the most versatile Accessibility suite:
 
 .. image:: ./images/bigread.png
+   :width: 100
    :alt: Peritia big read logo.
 
 - ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their comuter screen)*
