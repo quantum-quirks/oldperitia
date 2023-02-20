@@ -22,11 +22,13 @@ Here's a list of available tools that makes it the most versatile Accessibility 
 - ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their comuter screen)*
 
 .. image:: ./images/talkify.png
+   :width: 100
    :alt: Peritia talkify logo.
 
 - ``Talkify``
 
 .. image:: ./images/textease.png
+   :width: 100
    :alt: Peritia text ease logo.
 
 - ``TextEase`` *(A text editor that prioritizes accessibility and is designed to make it easy for people with disabilities to create and edit text-based content with ease)*
