@@ -20,6 +20,11 @@ Here's a list of available tools that makes it the most versatile Accessibility 
 
 - ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their comuter screen)*
 
+.. image:: ./images/talkify.png
+   :alt: Peritia talkify logo.
+
+- ``Talkify``
+
 .. image:: ./images/textease.png
    :alt: Peritia text ease logo.
 
