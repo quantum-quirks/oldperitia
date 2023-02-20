@@ -2,7 +2,7 @@ Peritia
 ==========
 
 .. image:: ./images/peritia.png
-   :alt: Peritia logo.
+   :alt: Peritia project logo.
 
 
 What is Peritia?
@@ -15,7 +15,13 @@ hearing, cognitive, or motor impairments to navigate and use technology with gre
 
 Here's a list of available tools that makes it the most versatile Accessibility suite:
 
+.. image:: ./images/bigread.png
+   :alt: Peritia big read logo.
+
 - ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their comuter screen)*
+
+.. image:: ./images/textease.png
+   :alt: Peritia text ease logo.
 
 - ``TextEase`` *(A text editor that prioritizes accessibility and is designed to make it easy for people with disabilities to create and edit text-based content with ease)*
 
