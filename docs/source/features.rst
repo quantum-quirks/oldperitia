@@ -2,31 +2,6 @@ Features
 ============
 
 
-``Text to Speech`` 🖺 🗣️
--------------------
-Text to speech feature enables Peritia to play back written text as spoken words.
-This feature has several important uses, including:
-
-Accessibility.
-^^^^^^^^^^^^^^^^
-Text to Speech feature allows people with visual impairments to access written information through audio, making it more accessible. Peritia allows you to load a text file or type some words on the textbox.
-
-Education.
-^^^^^^^^^^^^^^
-This feature can help improve literacy and comprehension by providing an alternative way to consume written material.
-
-Multilingual support.
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Peritia Text to Speech is multilingual!. This can help bridge language barriers by allowing text to be spoken in different languages.
-
-Hands-free usage.
-^^^^^^^^^^^^^^^^^^^^^^^^^
-This feature can allow people to consume written material while keeping their hands free for other tasks, such as writting thus increasing productivity.
-
-Overall, this feature can help increase accessibility and provide new ways for people to access and engage with written information.
-
-List of languages supported by our software
-.....
 
 ``American Sign Language`` 🧏
 ----------------------------
@@ -71,21 +46,21 @@ This will allow you to make the cursor stand out more against the background.
 Launch magnify using **Ctrl-A** this allows you to start Aura with ease. These shortcut can save time and make it easier to toggle and adjust  Aura settings as needed.
 
 
-``Magnify`` 🔍
+``BigRead`` 🔍
 --------------
 Text can be magnified or enlarged  by using the magnify feature.
 Before magnifying text, it's a good idea to check the Settings➔Appearance to make sure that it is set to your optimal taste.
 
 
-``1 Changing Magnify color.`` 🌈 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+``1 Changing BigRead Magnifier border color.`` 🌈 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ./images/magnify-color-picker.png
 
 To change magnify color, you can use the built in color dialog to select pre-defined color palettes or use the blend and gradient function to define custom colors.
 
-``2 Changing magnify shape.``
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+``2 Changing BigRead magnifier shape.``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This will make it easier to read the text and keep the content of the screen in proportion.
 
@@ -102,8 +77,8 @@ Available shapes are:
 .. image:: ./images/magnify-rectangle.png
 
 
-``3 Changing magnify size.``
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+``3 Changing BigRead magnifier size.``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **400x200**
 
@@ -116,8 +91,8 @@ Available shapes are:
 
 Experiment with different magnify size. Different magnify size can have a big impact on readability, so it's important to experiment with different sizes to find the one that works best for you.
 
-``4 Changing magnify style.``
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+``4 Changing  BigRead magnifier style.``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 **Dotted**
@@ -134,6 +109,46 @@ Experiment with different magnify size. Different magnify size can have a big im
 Launch magnify using **Ctrl-M** this allows you to quickly magnify text. These shortcut can save time and make it easier to toggle and adjust magnify settings as needed.
 
 
+
+``Talkify`` 🖺 🗣️
+-------------------
+Text to speech feature enables Peritia to play back written text as spoken words.
+This feature has several important uses, including:
+
+Features included in this software are as follows:
+
+Multiple Voices.
+^^^^^^^^^^^^^^^^^^^^
+Users can select from a range of voices to suit their preferences and use cases.
+
+Customizable Speed and Tone.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Users can adjust the speed and tone of the voice to make it more natural and understandable.
+
+Multilingual Support.
+^^^^^^^^^^^^^^^^^^^^^^^
+Talkify can support multiple languages and accents to cater to a global audience.
+
+
+Education.
+^^^^^^^^^^^^^^
+Talkify can help improve literacy and comprehension by providing an alternative way to consume written material.
+
+Hands-free usage.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Talkify can allow people to consume written material while keeping their hands free for other tasks, such as writting thus increasing productivity.
+
+Overall, this feature can help increase accessibility and provide new ways for people to access and engage with written information.
+
+List of languages supported by Talkify:
+
+    - Afrikaans
+    - English
+    - French
+    - Hindu
+    - Oromo
+    - Swahili
+.....
 ``Talk Back`` 📟 🗣️
 ---------------
 The talk back feature is a type of accessibility feature that provides spoken feedback to users through audio output. The purpose of talk back is to help users who have difficulty using the visual interface of the software, such as those with visual impairments or low vision.

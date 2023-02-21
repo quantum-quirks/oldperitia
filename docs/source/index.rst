@@ -13,7 +13,13 @@ communicate with others, and be productive without needing constant assistance.
 Peritia includes several applications that  enhances the usability and accessibility of technology for eole with various disabilities. It can assist people who have visual, 
 hearing, cognitive, or motor impairments to navigate and use technology with greater ease.
 
-Here's a list of available tools that makes it the most versatile Accessibility suite:
+Here's a list of available tools that makes Peritia the most versatile Accessibility suite:
+
+.. image:: ./images/aura.png
+   :width: 100
+   :alt: Peritia aura logo.
+
+- ``Aura`` 
 
 .. image:: ./images/bigread.png
    :width: 100
