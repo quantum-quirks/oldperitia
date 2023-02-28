@@ -108,6 +108,26 @@ Experiment with different magnify size. Different magnify size can have a big im
 
 Launch magnify using **Ctrl-M** this allows you to quickly magnify text. These shortcut can save time and make it easier to toggle and adjust magnify settings as needed.
 
+``SideKick``
+---------------------
+
+``Battery Babbler``
+^^^^^^^^^^^^^^^^^^^^^^
+Our robot can say the battery status by speaking the current battery percentage in a clear and concise manner, such as *"Battery level is at 75 percent."*
+If the battery level is under 10 percent or critically low, the robot can say, *"Battery level is low. Please connect to a power source."*
+
+
+``Date Dialectic``
+^^^^^^^^^^^^^^^^^^
+
+Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as *"Good morning, today is Monday, date 25, February 2024."*
+
+
+
+``Time Talker``
+^^^^^^^^^^^^^^^
+
+Our robot can say the current time by speaking the time in a clear and concise manner, such as *"The current time is 1:45 PM."*
 
 
 ``Talkify`` 🖺 🗣️
@@ -159,28 +179,7 @@ By providing spoken feedback, talk back feature makes devices more accessible an
 ``KeyBoard Shortcuts``  🖮
 --------------------------
 
-``Checking Battery Status``
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The keyboard shortcut to check battery status and power statistics on Linux and Windows is **F2**. 
 
-Our robot can say the battery status by speaking the current battery percentage in a clear and concise manner, such as *"Battery level is at 75 percent."*
-
-If the battery is under 10 percent or critically low, the robot can say, *"Battery level is low. Please connect to a power source."*
-
-
-``Checking Current Date``
-^^^^^^^^^^^^^^^^^^^^^^^^
-The keyboard shortcut to check current date on Linux and Windows is **F6**. 
-
-Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as *"Good morning, today is Monday, date 25, February 2024."*
-
-
-
-``Checking Current Time``
-^^^^^^^^^^^^^^^^^^^^^^^^
-The keyboard shortcut to check current time on Linux and Windows is **F3**. 
-
-Our robot can say the current time by speaking the time in a clear and concise manner, such as *"The current time is 1:45 PM."*
 
 Some of the advantages of using keyboard shortcuts are:
 
