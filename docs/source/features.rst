@@ -3,8 +3,10 @@ Features
 
 
 
-``American Sign Language`` 🧏
+``Peritia ASL`` 🧏
 ----------------------------
+.. image:: ./images/asl-ui.png
+
 American Sign Language (ASL) is a visual language used by the Deaf and Hard of Hearing community.
 ASL utilizes hand gestures, facial expressions, and body language to convey meaning, making it a valuable tool for those who are unable to hear spoken language. Additionally, ASL is a unique and rich language in its own right, with its own grammar and cultural norms.
 
@@ -52,8 +54,7 @@ Launch magnify using **Ctrl-A** this allows you to start Aura with ease. These s
 --------------
 .. image:: ./images/bigread-ui.png
 
-Text can be magnified or enlarged  by using the magnify feature.
-Before magnifying text, it's a good idea to check the Settings➔Appearance to make sure that it is set to your optimal taste.
+BigRead enables you to zoom in on parts of your display by magnifying the section on the screen that is near the cursor.BigRead can be particularly useful for users with visual impairments or those who prefer larger texts and images.
 
 
 ``1 Changing BigRead Magnifier border color.`` 🌈 
@@ -93,7 +94,7 @@ Available shapes are:
 .. image:: ./images/magnify600x200.png
 
 
-Experiment with different magnify size. Different magnify size can have a big impact on readability, so it's important to experiment with different sizes to find the one that works best for you.
+Different magnify size can have a big impact on readability, so it's important to experiment with different sizes to find the one that works best for you.
 
 ``4 Changing  BigRead magnifier style.``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -31,7 +31,7 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    :width: 100
    :alt: Peritia big read logo.
 
-- ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their comuter screen)*
+- ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their computer screen)*
 
 .. image:: ./images/sidekick.png
    :width: 100
