@@ -10,6 +10,8 @@ ASL utilizes hand gestures, facial expressions, and body language to convey mean
 
 ``Aura`` 🔾
 ---------
+.. image:: ./images/aura-ui.png
+
 Aura is a cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. This can be useful for individuals with visual impairments or for those using a computer in a brightly lit environment.
 Aura offers various customization options such as different colors, and size.
 
@@ -48,6 +50,8 @@ Launch magnify using **Ctrl-A** this allows you to start Aura with ease. These s
 
 ``BigRead`` 🔍
 --------------
+.. image:: ./images/bigread-ui.png
+
 Text can be magnified or enlarged  by using the magnify feature.
 Before magnifying text, it's a good idea to check the Settings➔Appearance to make sure that it is set to your optimal taste.
 
