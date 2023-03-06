@@ -1,9 +1,7 @@
 License📜
 ==========
 
-
-
-.. image:: ./images/license.svg
+.. image:: ./images/license.png
    :alt: Licence
 
 

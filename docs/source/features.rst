@@ -1,8 +1,6 @@
 Features
 ============
 
-
-
 ``Peritia ASL`` 🧏
 ----------------------------
 .. image:: ./images/asl-ui.png
@@ -119,6 +117,8 @@ Launch magnify using **Ctrl-M** this allows you to quickly magnify text. These s
 ---------------------
 
 .. image:: ./images/sidekick-ui.png
+   :alt: Side kick user interface.
+
 
 SideKick is a software designed to provide you with accurate and up-to-date verbal information about your device's battery health, charge status, and time. It can also track 
 your battery health over time by analyzing your charging habits and usage patterns, and provide you with verbal insights into how to optimize your device's battery life and 
@@ -128,6 +128,9 @@ improve its overall health. Useful for individuals with visual impairments or wh
 ``Battery Babbler``
 ^^^^^^^^^^^^^^^^^^^^^^
 .. image:: ./images/battery-babbler.png
+   :width: 30
+   :alt: Battery Babbler icon.
+
 
 Our robot can say the battery status by speaking the current battery percentage in a clear and concise manner, such as *"Battery level is at 75 percent."*
 If the battery level is under 10 percent or critically low, the robot can say, *"Battery level is low. Please connect to a power source."*
@@ -136,6 +139,9 @@ If the battery level is under 10 percent or critically low, the robot can say, *
 ``Date Dialectic``
 ^^^^^^^^^^^^^^^^^^
 .. image:: ./images/date-dialectic.png
+   :width: 30
+   :alt: Date Dialectic icon.
+
 
 Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as *"Good morning, today is Monday, date 25, February 2024."*
 
@@ -144,6 +150,9 @@ Our robot can say the current date by speaking the current day, date, month and 
 ``Time Talker``
 ^^^^^^^^^^^^^^^
 .. image:: ./images/time-talker.png
+   :width: 30
+   :alt: Time talker icon.
+
 
 Our robot can say the current time by speaking the time in a clear and concise manner, such as *"The current time is 1:45 PM."*
 
@@ -152,6 +161,8 @@ Our robot can say the current time by speaking the time in a clear and concise m
 -------------------
 
 .. image:: ./images/talkify-ui.png
+   :alt: Talkify user interface.
+
 
 Talkify is a text to speech software  that can play written text as soken words. Designed with people with disabilities in mind, providing a powerful tool to assist with reading and comprehension. 
 Whether you have visual impairments, dyslexia, or any other disability that makes reading challenging, Talkify is here to help.
@@ -176,7 +187,7 @@ Talkify can support multiple languages and accents to cater to a global audience
 Talkify can help improve literacy and comprehension by providing an alternative way to consume written material as well as allow people to consume written material while
 keeping their hands free for other tasks, such as writting thus increasing productivity.
 
-Overall, this Talkify can help increase accessibility and provide new ways for people to access and engage with written information.
+Overall, Talkify can help increase accessibility and provide new ways for people to access and engage with written information.
 
 List of languages supported by Talkify:
 
