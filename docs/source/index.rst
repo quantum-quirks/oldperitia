@@ -43,13 +43,14 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    :width: 100
    :alt: Peritia talkify logo.
 
-- ``Talkify``
+- ``Talkify`` *(Text to speech software that can play written text as spoken words. Designed with people with disabilities in mind. Whether you have visual impairments, dyslexia, or any other disability that makes reading challenging, Talkify is here to help)*
+
 
 .. image:: ./images/textease.png
    :width: 100
    :alt: Peritia text ease logo.
 
-- ``TextEase`` *(A text editor that prioritizes accessibility and is designed to make it easy for people with disabilities to create and edit text-based content with ease)*
+- ``TextEase`` *(Text editor that prioritizes accessibility.It allows users to write and edit text while receiving audio feedback in real-time while the user types. The editor will speak out loud each character that is inputted, allowing for a more immersive writing experience. Additionally, the editor may provide spoken suggestions for grammar or spelling errors. TextEase can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing.)*
 
 
 .. note::

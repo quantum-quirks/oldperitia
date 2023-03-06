@@ -14,7 +14,8 @@ ASL utilizes hand gestures, facial expressions, and body language to convey mean
 ---------
 .. image:: ./images/aura-ui.png
 
-Aura is a cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. This can be useful for individuals with visual impairments or for those using a computer in a brightly lit environment.
+Aura is a cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. This can be useful for individuals with visual 
+impairments or for those using a computer in a brightly lit environment.
 Aura offers various customization options such as different colors, and size.
 
 
@@ -29,7 +30,8 @@ This will allow you to make the cursor stand out more against the background.
 ``2 Changing Aura opacity``  ◌
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- Changing the opacity/transparency of the Aura  can help to blend elements together, creating a more cohesive overall look. Setting a low opacity can be used to draw attention to certain elements on the computer screen without obscuring the view or 
+ Changing the opacity/transparency of the Aura  can help to blend elements together, creating a more cohesive overall look. Setting a low opacity can be used to draw attention to certain elements on the computer 
+screen without obscuring the view or 
  to make certain elements appear more prominent or subtle depending on your taste.
 
 
@@ -116,14 +118,24 @@ Launch magnify using **Ctrl-M** this allows you to quickly magnify text. These s
 ``SideKick``
 ---------------------
 
+.. image:: ./images/sidekick-ui.png
+
+SideKick is a software designed to provide you with accurate and up-to-date verbal information about your device's battery health, charge status, and time. It can also track 
+your battery health over time by analyzing your charging habits and usage patterns, and provide you with verbal insights into how to optimize your device's battery life and 
+improve its overall health. Useful for individuals with visual impairments or who prefer a spoken feedback instead.
+
+
 ``Battery Babbler``
 ^^^^^^^^^^^^^^^^^^^^^^
+.. image:: ./images/battery-babbler.png
+
 Our robot can say the battery status by speaking the current battery percentage in a clear and concise manner, such as *"Battery level is at 75 percent."*
 If the battery level is under 10 percent or critically low, the robot can say, *"Battery level is low. Please connect to a power source."*
 
 
 ``Date Dialectic``
 ^^^^^^^^^^^^^^^^^^
+.. image:: ./images/date-dialectic.png
 
 Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as *"Good morning, today is Monday, date 25, February 2024."*
 
@@ -131,14 +143,21 @@ Our robot can say the current date by speaking the current day, date, month and 
 
 ``Time Talker``
 ^^^^^^^^^^^^^^^
+.. image:: ./images/time-talker.png
 
 Our robot can say the current time by speaking the time in a clear and concise manner, such as *"The current time is 1:45 PM."*
 
 
 ``Talkify`` 🖺 🗣️
 -------------------
-Text to speech feature enables Peritia to play back written text as spoken words.
-This feature has several important uses, including:
+
+.. image:: ./images/talkify-ui.png
+
+Talkify is a text to speech software  that can play written text as soken words. Designed with people with disabilities in mind, providing a powerful tool to assist with reading and comprehension. 
+Whether you have visual impairments, dyslexia, or any other disability that makes reading challenging, Talkify is here to help.
+
+Talkify is incredibly versatile and can be customized to suit your individual needs. You can choose from a range of voices, speeds, and languages allowing you
+to find the perfect combination that works best for you.
 
 Features included in this software are as follows:
 
@@ -154,16 +173,10 @@ Multilingual Support.
 ^^^^^^^^^^^^^^^^^^^^^^^
 Talkify can support multiple languages and accents to cater to a global audience.
 
+Talkify can help improve literacy and comprehension by providing an alternative way to consume written material as well as allow people to consume written material while
+keeping their hands free for other tasks, such as writting thus increasing productivity.
 
-Education.
-^^^^^^^^^^^^^^
-Talkify can help improve literacy and comprehension by providing an alternative way to consume written material.
-
-Hands-free usage.
-^^^^^^^^^^^^^^^^^^^^^^^^^
-Talkify can allow people to consume written material while keeping their hands free for other tasks, such as writting thus increasing productivity.
-
-Overall, this feature can help increase accessibility and provide new ways for people to access and engage with written information.
+Overall, this Talkify can help increase accessibility and provide new ways for people to access and engage with written information.
 
 List of languages supported by Talkify:
 
@@ -173,17 +186,20 @@ List of languages supported by Talkify:
     - Hindu
     - Oromo
     - Swahili
-.....
-``Talk Back`` 📟 🗣️
----------------
-The talk back feature is a type of accessibility feature that provides spoken feedback to users through audio output. The purpose of talk back is to help users who have difficulty using the visual interface of the software, such as those with visual impairments or low vision.
-This feature can provide spoken feedback for various interactions, such as navigating the device's interface, reading text and buttons, and providing information about mouse click/touch gestures. The feature can be toggled in the accessibility settings.
-By providing spoken feedback, talk back feature makes devices more accessible and usable for people with visual impairments, enabling them to interact with Peritia software more easily and independently.
 
+
+``TextEase``
+-----------------
+
+.. image:: ./images/textease-ui.png
+
+TextEase is a text editor that talks back. It allows users to write and edit text while receiving audio feedback in real-time. As the user types, the editor will speak out loud each character that is inputted, 
+allowing for a more immersive writing experience. 
+Additionally, the TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills. This can be useful for people with visual impairments, as well as for 
+anyone who prefers an audio-based approach to writing and editing text-based content.
 
 ``KeyBoard Shortcuts``  🖮
 --------------------------
-
 
 
 Some of the advantages of using keyboard shortcuts are:
@@ -215,25 +231,3 @@ For example to minimize Peritia software press **Esc** button
 
 
 
-``ThineEyes``
------------------
-This is feature of Peritia available for **Linux Distribution systems** that is designed for the visually impaired and blind community. It uses AI technology to accurately identify objects in real-time. The app works by using the camera to capture an image and then narrates what the image contains.
-
-The app can recognize and identify various objects, including people, text, products, currency, and barcodes. 
-
-Overall, ThineEyes feature is a valuable for the visually impaired and blind community to help them understand their surroundings.
-
-``Screen readers``
----------------------
-Screen readers are software programs that allow blind or visually impaired users to read the text that is displayed on the computer screen with a speech synthesizer or braille display. 
-
-All widgets in this software are accessible to screen readers such as Orca on Linux OS, VoiceOver on Mac OS and Narrator on Windows OS. This is important because it helps ensure that people with disabilities, including those who are blind or visually impaired, 
-can use and interact with our software.
-By making widgets accessible, we are able provide an inclusive experience for all users, regardless of their abilities, and help break down barriers to technology. 
-
-``System Tray``
-------------------
-The system tray, also known as the notification area, is a section of the taskbar in a computer operating system that displays icons for system and program features that are running in the background. 
-Launching  Periria activates a system tray icon to provide  quick access to several Periria features.
-
-On Windows, the Peritia system tray icon is located in the bottom right corner of the screen, while on macOS, it is located in the upper right corner of the screen. On Linux, the location of the system tray icon can vary, depending on the desktop environment being used.
