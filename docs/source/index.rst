@@ -14,7 +14,6 @@ Peritia
    :caption: Introduction
 
    introduction
-   summary
    features
    installation
 

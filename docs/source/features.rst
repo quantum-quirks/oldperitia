@@ -164,7 +164,7 @@ Our robot can say the current time by speaking the time in a clear and concise m
    :alt: Talkify user interface.
 
 
-Talkify is a text to speech software  that can play written text as soken words. Designed with people with disabilities in mind, providing a powerful tool to assist with reading and comprehension. 
+Talkify is a text to speech software  that can play written text as spoken words. Designed with people with disabilities in mind, providing a powerful tool to assist with reading and comprehension. 
 Whether you have visual impairments, dyslexia, or any other disability that makes reading challenging, Talkify is here to help.
 
 Talkify is incredibly versatile and can be customized to suit your individual needs. You can choose from a range of voices, speeds, and languages allowing you
@@ -206,7 +206,7 @@ List of languages supported by Talkify:
 
 TextEase is a text editor that talks back. It allows users to write and edit text while receiving audio feedback in real-time. As the user types, the editor will speak out loud each character that is inputted, 
 allowing for a more immersive writing experience. 
-Additionally, the TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills. This can be useful for people with visual impairments, as well as for 
+Additionally, TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills. This can be useful for people with visual impairments, as well as for 
 anyone who prefers an audio-based approach to writing and editing text-based content.
 
 ``KeyBoard Shortcuts``  🖮
