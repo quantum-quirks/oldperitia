@@ -1,6 +1,6 @@
 Windows
 ===========
-Before starting the installation process, check the System Requirements page for the prerequisites for installing LibreOffice on a Windows system.
+Before starting the installation process, check the System Requirements page for the prerequisites for installing Peritia on a Windows system.
 
 Enterprise and government users: please check the deployment and migration information page.
 
