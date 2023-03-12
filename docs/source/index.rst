@@ -15,19 +15,15 @@ Peritia
 
    introduction
    features
-   installation
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Miscellaneous pages  
 
-   faq
    troubleshooting
    support.rst
    team
-   license
-   releasenotes
    changes.rst
    appendix.rst
 
