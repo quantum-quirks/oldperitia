@@ -15,6 +15,7 @@ Peritia
 
    introduction
    features
+   installation
 
 
 .. toctree::
