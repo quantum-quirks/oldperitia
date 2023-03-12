@@ -22,6 +22,7 @@ Peritia
    :caption: Miscellaneous pages  
 
    troubleshooting
+   releasenotes
    faq
    support.rst
    team
