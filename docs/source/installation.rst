@@ -8,6 +8,7 @@ Please check these step-by-step instructions for the following operating systems
 
 .. toctree::
    :maxdepth: 1
+
    linux
    macos
    windows
