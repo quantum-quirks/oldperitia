@@ -27,6 +27,7 @@ Peritia
    support.rst
    team
    license
+   releasenotes
    changes.rst
    appendix.rst
 
