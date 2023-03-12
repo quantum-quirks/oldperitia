@@ -1,4 +1,4 @@
-License📜
+License
 ==========
 
 .. image:: ./images/license.png
