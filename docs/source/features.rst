@@ -1,14 +1,14 @@
 Features
 ============
 
-``Peritia ASL`` 🧏
+``Peritia ASL``
 ----------------------------
 .. image:: ./images/asl-ui.png
 
 American Sign Language (ASL) is a visual language used by the Deaf and Hard of Hearing community.
 ASL utilizes hand gestures, facial expressions, and body language to convey meaning, making it a valuable tool for those who are unable to hear spoken language. Additionally, ASL is a unique and rich language in its own right, with its own grammar and cultural norms.
 
-``Aura`` 🔾
+``Aura``
 ---------
 .. image:: ./images/aura-ui.png
 
@@ -17,7 +17,7 @@ impairments or for those using a computer in a brightly lit environment.
 Aura offers various customization options such as different colors, and size.
 
 
-``1 Changing Aura color`` 🌈 
+``1 Changing Aura color``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ./images/aura-color-picker.png
@@ -25,7 +25,7 @@ Aura offers various customization options such as different colors, and size.
 To change aura color, you can use the built in color dialog to select pre-defined color palettes or use the blend and gradient function to define custom colors.
 This will allow you to make the cursor stand out more against the background.
 
-``2 Changing Aura opacity``  ◌
+``2 Changing Aura opacity``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  Changing the opacity/transparency of the Aura  can help to blend elements together, creating a more cohesive overall look. Setting a low opacity can be used to draw attention to certain elements on the computer 
@@ -38,7 +38,7 @@ screen without obscuring the view or
  A blinking Aura is a visual indicator used to indicate the position of the cursor and make it more noticeable.
 
 
-``4 Increasing Aura size`` ⚪🞅🞉🞆🞇🞈🞉🞊
+``4 Increasing Aura size``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  This option will allow you to increase the size of Aura (radius/diameter). This can make it easier to spot on the screen.
@@ -50,14 +50,14 @@ screen without obscuring the view or
 Launch magnify using **Ctrl-A** this allows you to start Aura with ease. These shortcut can save time and make it easier to toggle and adjust  Aura settings as needed.
 
 
-``BigRead`` 🔍
+``BigRead``
 --------------
 .. image:: ./images/bigread-ui.png
 
 BigRead enables you to zoom in on parts of your display by magnifying the section on the screen that is near the cursor.BigRead can be particularly useful for users with visual impairments or those who prefer larger texts and images.
 
 
-``1 Changing BigRead Magnifier border color.`` 🌈 
+``1 Changing BigRead Magnifier border color.``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ./images/magnify-color-picker.png
@@ -157,7 +157,7 @@ Our robot can say the current date by speaking the current day, date, month and 
 Our robot can say the current time by speaking the time in a clear and concise manner, such as *"The current time is 1:45 PM."*
 
 
-``Talkify`` 🖺 🗣️
+``Talkify``
 -------------------
 
 .. image:: ./images/talkify-ui.png
@@ -209,7 +209,7 @@ allowing for a more immersive writing experience.
 Additionally, TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills. This can be useful for people with visual impairments, as well as for 
 anyone who prefers an audio-based approach to writing and editing text-based content.
 
-``KeyBoard Shortcuts``  🖮
+``KeyBoard Shortcuts``
 --------------------------
 
 
