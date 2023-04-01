@@ -12,7 +12,7 @@ Download
 ----------------
 .. note::
 
-   Peritia Accessibility Suite requires the 64-bit version of windows
+   Peritia Accessibility Suite requires the 64-bit version of Linux
 
 If you are unsure which Linux version you have, open the terminal and paste this command:
 

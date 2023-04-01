@@ -13,7 +13,7 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    :width: 100
    :alt: Peritia ASL logo.
 
-- ``Peritia ASL`` *(American Sign Language catalogue program that can help individuals learn and improve their American Sign Language skills. It features interactive gifs of signs, signing instructions, finger spelling tool, quizzes to test your knowledge and a search bar to search signs by word or by browsing through categories.)*
+- ``Peritia ASL`` *(American Sign Language catalogue program that can help individuals learn and improve their American Sign Language skills. It features interactive signing instructions,a finger spelling tool and a search bar to search signs by word or by browsing through categories.)*
 
 .. image:: ./images/aura.png
    :width: 100

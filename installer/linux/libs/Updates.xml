@@ -1,0 +1,95 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>org.scalabli.Asl</Name>
+  <DisplayName>Peritia American Sign Language.</DisplayName>
+  <Description>This will install Peritia American Sign Language components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="804502" OS="Any" UncompressedSize="916671"/>
+  <DownloadableArchives>PeritiaAsl.7z,content.7z</DownloadableArchives>
+  <SHA1>5a7c7cbf225581710326d617fba6f4aabc3c8cbc</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.Aura</Name>
+  <DisplayName>Peritia Aura</DisplayName>
+  <Description>This will install Peritia Aura components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="121699" OS="Any" UncompressedSize="236054"/>
+  <DownloadableArchives>Aura.7z,content.7z</DownloadableArchives>
+  <SHA1>5118ab8cb1434d26fd1c1f805cd000e80a69ef83</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.BigRead</Name>
+  <DisplayName>Peritia BigRead</DisplayName>
+  <Description>This will install Peritia BigRead components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="1754668" OS="Any" UncompressedSize="2038832"/>
+  <DownloadableArchives>BigRead.7z,content.7z</DownloadableArchives>
+  <SHA1>a18fa9a6b184c0aed836b14eefdc2bb69c82ed3d</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.SideKick</Name>
+  <DisplayName>Peritia SideKick</DisplayName>
+  <Description>This will install Peritia SideKick components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="58564" OS="Any" UncompressedSize="124182"/>
+  <DownloadableArchives>SideKick.7z,content.7z</DownloadableArchives>
+  <SHA1>6ed4a512767bf21d7a7a3b2a96edd80e646042db</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.Talkify</Name>
+  <DisplayName>Peritia Talkify</DisplayName>
+  <Description>This will install Peritia Talkify components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="1764695" OS="Any" UncompressedSize="2048486"/>
+  <DownloadableArchives>Talkify.7z,content.7z</DownloadableArchives>
+  <SHA1>75cbac3630f6e79777e2c6644116c11bf02c2a76</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.TextEase</Name>
+  <DisplayName>Peritia TextEase</DisplayName>
+  <Description>This will install Peritia TextEase components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="1296207" OS="Any" UncompressedSize="1585429"/>
+  <DownloadableArchives>TextEase.7z,content.7z</DownloadableArchives>
+  <SHA1>54ee006aec75a064299023a5046630d814ca08e7</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>packages.libs</Name>
+  <DisplayName>Peritia main components</DisplayName>
+  <Description>This will install Peritia Accessibility suite main components. Do not uncheck this.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="16456297" OS="Any" UncompressedSize="58745426"/>
+  <DownloadableArchives>docs.7z,lib.7z,plugins.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <Licenses>
+   <License name="Peritia License Agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>4c1d1c32e4d7dfb5db18d0f5b199884f50452a76</SHA1>
+ </PackageUpdate>
+ <SHA1>71f894fc171c3b514319d5f2eabf988edf8ae3c7</SHA1>
+ <MetadataName>2023-04-01-2100_meta.7z</MetadataName>
+</Updates>
