@@ -20,7 +20,7 @@ If you are unsure which Linux version you have, open the terminal and paste this
 
    uname -i
  
-
+Download `Peritia Linux Installer <https://github.com/gerrishons/peritia/tree/main/installer/linux/libs>`_
 
 Starting Installer
 ----------------------
