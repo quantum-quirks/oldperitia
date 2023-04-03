@@ -20,7 +20,18 @@ If you are unsure which Linux version you have, open the terminal and paste this
 
    uname -i
  
-Download `Peritia Linux Installer <https://github.com/gerrishons/peritia/tree/main/installer/linux/libs>`_
+Download Peritia Linux Installer using this command
+
+.. code:: python
+
+   wget -O peritia-x86-linux.run https://https://github.com/gerrishons/peritia/tree/main/installer/linux/peritia-x86-linux.run 
+
+
+Run this command to make it excutable
+
+.. code:: python
+
+   chmod +x peritia-x86-linux.run
 
 Starting Installer
 ----------------------
