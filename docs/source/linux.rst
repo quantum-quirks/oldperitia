@@ -24,7 +24,7 @@ Download Peritia Linux Installer using this command
 
 .. code:: python
 
-   wget -O peritia-x86-linux.run https://https://github.com/gerrishons/peritia/tree/main/installer/linux/peritia-x86-linux.run 
+   wget -O peritia-x86-linux.run https://github.com/gerrishons/peritia/tree/main/installer/linux/peritia-x86-linux.run 
 
 
 Run this command to make it excutable
