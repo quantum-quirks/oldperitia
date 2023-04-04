@@ -5,15 +5,15 @@ Features
 ----------------------------
 .. image:: ./images/asl-ui.png
 
-American Sign Language (ASL) is a visual language used by the Deaf and Hard of Hearing community.
-ASL utilizes hand gestures, facial expressions, and body language to convey meaning, making it a valuable tool for those who are unable to hear spoken language. Additionally, ASL is a unique and rich language in its own right, with its own grammar and cultural norms.
+Peritia ASL is an American Sign Language catalogue program that can help individuals learn and improve their American Sign Language skills.
+ It features interactive signing instructions,a finger spelling tool and a search bar to search signs by word or by browsing through categories.
 
 ``Aura``
 ---------
 .. image:: ./images/aura-ui.png
 
-Aura is a cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. This can be useful for individuals with visual 
-impairments or for those using a computer in a brightly lit environment.
+Aura is a cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. 
+This can be useful for individuals with visual impairments or for those using a computer in a brightly lit environment.
 Aura offers various customization options such as different colors, and size.
 
 
@@ -28,9 +28,9 @@ This will allow you to make the cursor stand out more against the background.
 ``2 Changing Aura opacity``
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- Changing the opacity/transparency of the Aura  can help to blend elements together, creating a more cohesive overall look. Setting a low opacity can be used to draw attention to certain elements on the computer 
-screen without obscuring the view or 
- to make certain elements appear more prominent or subtle depending on your taste.
+Changing the opacity/transparency of the Aura  can help to blend elements together, creating a more cohesive overall look. Setting a low opacity can be 
+used to draw attention to certain elements on the computer screen without obscuring the view or to make certain elements appear more prominent or subtle
+depending on your taste.
 
 
 ``3 Enabling blinking Aura``
@@ -54,7 +54,8 @@ Launch magnify using **Ctrl-A** this allows you to start Aura with ease. These s
 --------------
 .. image:: ./images/bigread-ui.png
 
-BigRead enables you to zoom in on parts of your display by magnifying the section on the screen that is near the cursor.BigRead can be particularly useful for users with visual impairments or those who prefer larger texts and images.
+BigRead enables you to zoom in on parts of your display by magnifying the section on the screen that is near the cursor.BigRead can be particularly useful for
+users with visual impairments or those who prefer larger texts and images.
 
 
 ``1 Changing BigRead Magnifier border color.``
@@ -120,9 +121,9 @@ Launch magnify using **Ctrl-M** this allows you to quickly magnify text. These s
    :alt: Side kick user interface.
 
 
-SideKick is a software designed to provide you with accurate and up-to-date verbal information about your device's battery health, charge status, and time. It can also track 
-your battery health over time by analyzing your charging habits and usage patterns, and provide you with verbal insights into how to optimize your device's battery life and 
-improve its overall health. Useful for individuals with visual impairments or who prefer a spoken feedback instead.
+SideKick is a software designed to provide you with accurate and up-to-date verbal information about your device's battery health, charge status, and time. 
+It can also track your battery health over time by analyzing your charging habits and usage patterns, and provide you with verbal insights into how to optimize your 
+device's battery life and improve its overall health. Useful for individuals with visual impairments or who prefer a spoken feedback instead.
 
 
 ``Battery Babbler``
@@ -143,7 +144,8 @@ If the battery level is under 10 percent or critically low, the robot can say, *
    :alt: Date Dialectic icon.
 
 
-Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as *"Good morning, today is Monday, date 25, February 2024."*
+Our robot can say the current date by speaking the current day, date, month and year in a clear and concise manner, such as 
+*"Good morning, today is Monday, date 25, February 2024."*
 
 
 
@@ -164,7 +166,8 @@ Our robot can say the current time by speaking the time in a clear and concise m
    :alt: Talkify user interface.
 
 
-Talkify is a text to speech software  that can play written text as spoken words. Designed with people with disabilities in mind, providing a powerful tool to assist with reading and comprehension. 
+Talkify is a text to speech software  that can play written text as spoken words. Designed with people with disabilities in mind, providing a powerful tool to 
+assist with reading and comprehension. 
 Whether you have visual impairments, dyslexia, or any other disability that makes reading challenging, Talkify is here to help.
 
 Talkify is incredibly versatile and can be customized to suit your individual needs. You can choose from a range of voices, speeds, and languages allowing you
@@ -204,10 +207,10 @@ List of languages supported by Talkify:
 
 .. image:: ./images/textease-ui.png
 
-TextEase is a text editor that talks back. It allows users to write and edit text while receiving audio feedback in real-time. As the user types, the editor will speak out loud each character that is inputted, 
-allowing for a more immersive writing experience. 
-Additionally, TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills. This can be useful for people with visual impairments, as well as for 
-anyone who prefers an audio-based approach to writing and editing text-based content.
+TextEase is a text editor that talks back. It allows users to write and edit text while receiving audio feedback in real-time. As the user types, the editor will
+ speak out loud each character that is inputted, allowing for a more immersive writing experience. 
+Additionally, TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills.
+This can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing text-based content.
 
 ``KeyBoard Shortcuts``
 --------------------------
