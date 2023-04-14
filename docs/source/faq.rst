@@ -56,14 +56,18 @@ Frequently Asked Questions
 
   ii) **Deaf and hard of hearing individuals**
 
-    The software can provides American Sign Language content , text to American Sign Language,
-American Sign Language letters, common American Sign Language words and phrases.
+    The software can provides American Sign Language content , text to American Sign Language, American Sign Language letters,
+    common American Sign Language words and phrases.
 
-Individuals with mobility impairments: The software can provide Keyboard shortcuts, voice control, large text and buttons, and other features
- to help individuals who have difficulty using a mouse. to do repetitive tasks.
+  iii) **Individuals with mobility impairments**
 
-Individuals with cognitive impairments: The software can provide simple interfaces, clear navigation, and customizable settings to help 
-individuals with cognitive difficulties understand and use technology.
+    The software can provide Keyboard shortcuts, voice control, large text and buttons, and other features
+    to help individuals who have difficulty using a mouse. to do repetitive tasks.
+
+  iv) **Individuals with cognitive impairments**
+ 
+    The software can provide simple interfaces, clear navigation, and customizable settings to help individuals with cognitive difficulties
+    understand and use technology.
 
 
 
