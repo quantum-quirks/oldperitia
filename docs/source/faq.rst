@@ -47,12 +47,16 @@ Frequently Asked Questions
 
 - ``Who is  benefitting from this software?``
 
-This software can benefit a wide range of individuals with disabilities, including those with vision, hearing, mobility, cognitive, and speech 
-impairments. Some specific populations that can benefit from this software include:
-**Blind and visually impaired individuals:** The software can provide text-to-speech, voice-controlled interfaces, and Talk back feature to 
-help them navigate digital content.
+  This software can benefit a wide range of individuals with disabilities, including those with vision, hearing, mobility, cognitive, and speech 
+  impairments. Some specific populations that can benefit from this software include:
 
-Deaf and hard of hearing individuals: The software can provides American Sign Language content , text to American Sign Language,
+  i) **Blind and visually impaired individuals** 
+
+    The software can provide text-to-speech, voice-controlled interfaces, and Talk back feature to help them navigate digital content.
+
+  ii) **Deaf and hard of hearing individuals**
+
+    The software can provides American Sign Language content , text to American Sign Language,
 American Sign Language letters, common American Sign Language words and phrases.
 
 Individuals with mobility impairments: The software can provide Keyboard shortcuts, voice control, large text and buttons, and other features
