@@ -1,6 +1,11 @@
 License
 ==========
 
+.. image:: ./images/certificate.png
+   :alt: Licence
+
+
+
 
 ``© 2022-2023 SCALABLI, GERRISHON SIRERE``
 
