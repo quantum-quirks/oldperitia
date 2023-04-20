@@ -27,7 +27,7 @@ Peritia
    faq
    support.rst
    team
-   license
+   license.rst
    changes.rst
    appendix.rst
 
