@@ -207,8 +207,9 @@ List of languages supported by Talkify:
 
 .. image:: ./images/textease-ui.png
 
+
 TextEase is a text editor that talks back. It allows users to write and edit text while receiving audio feedback in real-time. As the user types, the editor will
- speak out loud each character that is inputted, allowing for a more immersive writing experience. 
+speak out loud each character that is inputted, allowing for a more immersive writing experience.
 Additionally, TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills.
 This can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing text-based content.
 
@@ -233,8 +234,7 @@ Keyboard shortcuts can reduce the strain on your hands and wrists associated wit
 
 - **Consistency.**
 
-Keyboard shortcuts  provide a consistent way of performing different tasks with our software thus reducing the need to relearn tasks in different contexts. 
-For example to minimize Peritia software press **Esc** button
+Keyboard shortcuts  provide a consistent way of performing different tasks with our software thus reducing the need to relearn tasks in different contexts.
 
 .. list-table:: Peritia Keyboard Shortcuts.
    :widths: 25 25
