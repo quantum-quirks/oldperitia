@@ -47,3 +47,14 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 - ``TextEase`` *(Text editor that prioritizes accessibility.It allows users to write and edit text while receiving audio feedback in real-time while the user types. The editor will speak out loud each character that is inputted, allowing for a more immersive writing experience. Additionally, the editor may provide spoken suggestions for grammar or spelling errors. TextEase can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing.)*
 
 
+In the coming months we will introduce *Version 2023.3* of Peritia Accessibility Suite. This release will introduce a range of new features and improvements aimed at providing a seamless user experience and increasing independence for our valued users.
+
+What's New:
+
+``Voice Command Capability``: We will integrate  a cutting-edge voice command feature across all Peritia applications. Users will be able to navigate, control, and interact with the suite using natural voice commands. This will empower individuals with motor impairments and those who prefer hands-free operation, enabling them to access information,and be productive without constant assistance.
+
+``Expand ASL (American Sign Language) Software:`` Our ASL software will include an extensive library of new ASL words and phrases. This expansion will ensure that our users who communicate using sign language have access to a broader vocabulary, facilitating more effective communication and inclusivity.
+
+``Enhanced User Interface:`` We have further refined the user interface of Peritia Accessibility Suite to provide a clean, intuitive, and user-friendly experience. The streamlined design aims to minimize cognitive load and make navigation effortless for individuals with cognitive impairments.
+
+``Performance Enhancements and Bug Fixes:`` We are diligently working on improving the overall performance and stability of the suite. Several bugs identified are being addressed, ensuring a smoother experience across all applications.
