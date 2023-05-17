@@ -10,8 +10,8 @@ Before starting the installation process, check the System Requirements page for
 
 Enterprise and government users: please check the deployment and migration information page.
 
-You do not have to uninstall any previously installed version of Peritia. If you do have an existing installation of Peritia, all your preferences will be preserved
-and that old installation will simply be overwritten.
+You do not have to uninstall any previously installed version of Peritia. If you do have an existing installation of Peritia, all your 
+preferences will be preserved and that old installation will simply be overwritten.
 
 
 Download
@@ -27,6 +27,8 @@ If you are unsure which Linux version you have, open the terminal and paste this
    uname -i
  
 Download Peritia Linux Installer using this command
+
+rggggg :download:`fle <files/peritia.run>`
 
 .. include:: ./files/peritia.run
 
