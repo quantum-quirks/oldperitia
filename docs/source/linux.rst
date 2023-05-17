@@ -1,5 +1,11 @@
 Linux
 ===========
+
+.. image:: ./images/linux.png
+   :width: 100
+   :alt: Linux logo.
+
+
 Before starting the installation process, check the System Requirements page for the prerequisites for installing Peritia on a Linux system.
 
 Enterprise and government users: please check the deployment and migration information page.
