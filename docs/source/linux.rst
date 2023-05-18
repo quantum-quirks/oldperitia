@@ -28,7 +28,7 @@ If you are unsure which Linux version you have, open the terminal and paste this
  
 Download Peritia Linux Installer using by clicking the dowload icon below.
 
-Download Installer :download:`Peritia Linux Installer <files/peritia-x86-linux-online.run>`
+Download Installer        :download:`Peritia Linux Installer <files/peritia-x86-linux-online.run>`
 
 
 Navigate to the folder where the installer file was saved after downloading, open your terminal and run this command to make it excutable
