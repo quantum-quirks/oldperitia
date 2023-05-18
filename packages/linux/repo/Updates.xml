@@ -1,0 +1,97 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>org.scalabli.Asl</Name>
+  <DisplayName>Peritia American Sign Language.</DisplayName>
+  <Description>This will install Peritia American Sign Language components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <SortingPriority>70</SortingPriority>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="17747305" CompressedSize="17250877"/>
+  <DownloadableArchives>PeritiaAsl.7z,content.7z</DownloadableArchives>
+  <SHA1>384ff900b7833e6687e1f79fa2fa30639396d172</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.Aura</Name>
+  <DisplayName>Peritia Aura</DisplayName>
+  <Description>This will install Peritia Aura components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="245464" CompressedSize="125320"/>
+  <DownloadableArchives>Aura.7z,content.7z</DownloadableArchives>
+  <SHA1>622296d4a4cc89f73cf8e1536a9fbfa449a07a65</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.BigRead</Name>
+  <DisplayName>Peritia BigRead</DisplayName>
+  <Description>This will install Peritia BigRead components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="237930" CompressedSize="122408"/>
+  <DownloadableArchives>BigRead.7z,content.7z</DownloadableArchives>
+  <SHA1>153560a947f3962a4588bc366b9b166300a1a52d</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.SideKick</Name>
+  <DisplayName>Peritia SideKick</DisplayName>
+  <Description>This will install Peritia SideKick components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="1086544" CompressedSize="801097"/>
+  <DownloadableArchives>SideKick.7z,content.7z</DownloadableArchives>
+  <SHA1>13840b9fcc5df667df9490b88e945561645f45d2</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.Talkify</Name>
+  <DisplayName>Peritia Talkify</DisplayName>
+  <Description>This will install Peritia Talkify components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="319960" CompressedSize="192148"/>
+  <DownloadableArchives>Talkify.7z,content.7z</DownloadableArchives>
+  <SHA1>7cf2d623ccae558fdcf885d906a93a3076fb702f</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.scalabli.TextEase</Name>
+  <DisplayName>Peritia TextEase</DisplayName>
+  <Description>This will install Peritia TextEase components.</Description>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="876223" CompressedSize="602110"/>
+  <DownloadableArchives>TextEase.7z,content.7z</DownloadableArchives>
+  <SHA1>e0d1dddf67a162fba82017cd18ae1a102822cd59</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>packages.libs</Name>
+  <DisplayName>Peritia main components</DisplayName>
+  <Description>This will install Peritia Accessibility suite main components. Do not uncheck this.</Description>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Version>2023.1-beta</Version>
+  <ReleaseDate>2023-02-01</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <SortingPriority>100</SortingPriority>
+  <UpdateFile OS="Any" UncompressedSize="88700796" CompressedSize="26308435"/>
+  <DownloadableArchives>docs.7z,icons.7z,lib.7z,plugins.7z,scripts.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <Licenses>
+   <License file="license.txt" name="Peritia License Agreement"/>
+  </Licenses>
+  <SHA1>9da252f4f96d2768f6b7298b77f2d6a1b7b28e74</SHA1>
+ </PackageUpdate>
+ <SHA1>862386cf7d75776136b9a692b66b96c3964a6228</SHA1>
+ <MetadataName>2023-05-18-1928_meta.7z</MetadataName>
+</Updates>
