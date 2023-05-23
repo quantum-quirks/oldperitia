@@ -47,6 +47,15 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 - ``TextEase`` *(Text editor that prioritizes accessibility.It allows users to write and edit text while receiving audio feedback in real-time while the user types. The editor will speak out loud each character that is inputted, allowing for a more immersive writing experience. Additionally, the editor may provide spoken suggestions for grammar or spelling errors. TextEase can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing.)*
 
 
+.. image:: ./images/3dquest.png
+   :width: 100
+   :alt: Peritia three d quest logo.
+- ``3DQuest``  *(Designed to revolutionize the way we experience educational content. 3D Quest offers a captivating and immersive 3D environment where users can explore different locations, interact with objects.)*
+
+With 3DQuest, learning becomes an engaging adventure as users navigate through realistic and visually stunning virtual worlds. Whether you're a student, teacher, or lifelong learner, this software provides an unparalleled opportunity to delve into educational topics with a new level of depth and interactivity.
+
+
+
 In the coming months we will introduce *Version 2023.3* of Peritia Accessibility Suite. This release will introduce a range of new features and improvements aimed at providing a seamless user experience and increasing independence for our valued users.
 
 What's New:
