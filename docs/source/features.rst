@@ -213,6 +213,12 @@ speak out loud each character that is inputted, allowing for a more immersive wr
 Additionally, TextEase may provide spoken suggestions for grammar or spelling errors, helping the user to improve their writing skills.
 This can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing text-based content.
 
+
+
+
+With 3DQuest, learning becomes an engaging adventure as users navigate through realistic and visually stunning virtual worlds. Whether you're a student, teacher, or lifelong learner, this software provides an unparalleled opportunity to delve into educational topics with a new level of depth and interactivity.
+
+
 ``KeyBoard Shortcuts``
 --------------------------
 

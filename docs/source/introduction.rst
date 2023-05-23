@@ -50,9 +50,8 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 .. image:: ./images/3dquest.png
    :width: 100
    :alt: Peritia three d quest logo.
-- ``3DQuest``  *(Designed to revolutionize the way we experience educational content. 3D Quest offers a captivating and immersive 3D environment where users can explore different locations, interact with objects.)*
+- ``3DQuest``  *(Designed to revolutionize the way we experience educational content. 3DQuest offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. 3DQuest is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
 
-With 3DQuest, learning becomes an engaging adventure as users navigate through realistic and visually stunning virtual worlds. Whether you're a student, teacher, or lifelong learner, this software provides an unparalleled opportunity to delve into educational topics with a new level of depth and interactivity.
 
 
 
