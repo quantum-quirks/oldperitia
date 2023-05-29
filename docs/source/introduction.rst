@@ -4,8 +4,7 @@ What is Peritia?
 **Peritia** is a powerful accessibility suite. It has a clean user interface and feature-rich tools to help people with disabilities to access information,
 communicate with others, and be productive without needing constant assistance.
 
-Peritia includes several applications that  enhances the usability and accessibility of technology for people with various disabilities. It can assist people who have visual, 
-hearing, cognitive, or motor impairments to navigate and use technology with greater ease.
+Peritia includes several applications that  enhances the usability and accessibility of technology for people with various disabilities. It can assist people who have visual, hearing, cognitive, motor impairments dor neurodiverse disabilities to navigate and use technology with greater ease.
 
 Here's a list of available tools that makes Peritia the most versatile Accessibility suite:
 
