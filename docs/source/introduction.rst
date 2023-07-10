@@ -3,7 +3,7 @@ What is Peritia?
 
 At Peritia, we create several applications that enhances the usability and accessibility of technology for people with various disabilities. We have applications that can assist people who have visual, hearing, cognitive, motor impairments and neurodiverse disabilities to navigate and use technology with greater ease. Our mission is to break down barriers and improve accessibility for everyone. We believe that everyone deserves to live a full and independent life, and our software suite is designed to help people achieve that.
 
-Peritia includes several applications that  enhances the usability and accessibility of technology for people with various disabilities. It can assist people who have visual, hearing, cognitive, motor impairments dor neurodiverse disabilities to navigate and use technology with greater ease.
+Peritia includes several applications that  enhances the usability and accessibility of technology for people with various disabilities. It can assist people who have visual, hearing, cognitive, motor impairments and neurodiverse disabilities to navigate and use technology with greater ease.
 
 Here's a list of available tools that makes Peritia the most versatile Accessibility suite:
 
