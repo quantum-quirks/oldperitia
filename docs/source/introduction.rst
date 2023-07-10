@@ -1,8 +1,7 @@
 What is Peritia?
 ===================
 
-**Peritia** is a powerful accessibility suite. It has a clean user interface and feature-rich tools to help people with disabilities to access information,
-communicate with others, and be productive without needing constant assistance.
+At Peritia, we create several applications that enhances the usability and accessibility of technology for people with various disabilities. We have applications that can assist people who have visual, hearing, cognitive, motor impairments and neurodiverse disabilities to navigate and use technology with greater ease. Our mission is to break down barriers and improve accessibility for everyone. We believe that everyone deserves to live a full and independent life, and our software suite is designed to help people achieve that.
 
 Peritia includes several applications that  enhances the usability and accessibility of technology for people with various disabilities. It can assist people who have visual, hearing, cognitive, motor impairments dor neurodiverse disabilities to navigate and use technology with greater ease.
 
@@ -49,9 +48,9 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 .. image:: ./images/3dquest.png
    :width: 100
    :alt: Peritia three d quest logo.
-- ``3DQuest``  *(Designed to revolutionize the way we experience educational content. 3DQuest offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. 3DQuest is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
+- ``Neurolearn``  *(Designed to revolutionize the way we experience educational content. 3DQuest offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. 3DQuest is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
 
-
+- ``Blindsight`` *(A navigation app that assists individuals with visual impairments in navigating indoor and outdoor spaces. It can be used to identify objects and landmarks, it real-time audio cues, haptic feedback, and voice commands to provide step-by-step guidance, ensuring safe and independent travel)*.
 
 
 In the coming months we will introduce *Version 2023.3* of Peritia Accessibility Suite. This release will introduce a range of new features and improvements aimed at providing a seamless user experience and increasing independence for our valued users.
