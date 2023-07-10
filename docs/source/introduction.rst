@@ -53,7 +53,7 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 
 .. image:: ./images/blindsight.png
    :width: 100
-- ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to dect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera toards an object or document, users will receive instant audio feedack describing the items characteristics. It is useful for individuals with vision imppairment)*
+- ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to dect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera toards an object or document, users will receive instant audio feedack describing the items characteristics. It is useful for individuals with vision impairments)*
 
 
 In the coming months we will introduce *Version 2023.3* of Peritia Accessibility Suite. This release will introduce a range of new features and improvements aimed at providing a seamless user experience and increasing independence for our valued users.
