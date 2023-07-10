@@ -48,7 +48,8 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 .. image:: ./images/3dquest.png
    :width: 100
    :alt: Peritia three d quest logo.
-- ``Neurolearn``  *(Designed to revolutionize the way we experience educational content. 3DQuest offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. 3DQuest is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
+- ``Neurolearn``  *(Designed to revolutionize the way we experience educational content. Neurolearn offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. Neurolearn is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
+
 
 - ``Blindsight`` *(A navigation app that assists individuals with visual impairments in navigating indoor and outdoor spaces. It can be used to identify objects and landmarks, it real-time audio cues, haptic feedback, and voice commands to provide step-by-step guidance, ensuring safe and independent travel)*.
 
