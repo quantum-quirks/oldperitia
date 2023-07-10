@@ -51,6 +51,8 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 - ``Neurolearn``  *(Designed to revolutionize the way we experience educational content. Neurolearn offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. Neurolearn is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
 
 
+.. image:: ./images/blinsight.png
+
 - ``Blindsight`` *(By harnessing the power of computer vision and AI, Blindsight offers a comprehensive suite of features to dect and interpret images, objects and scenes in realtime. By simply pointing out their smartphone camera toards an object or document, users will receive instant audio feedack describing the items characteristics. It is useful for individuals with vision imppairment)*
 
 
