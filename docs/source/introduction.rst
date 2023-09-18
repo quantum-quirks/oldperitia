@@ -44,6 +44,12 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
 
 - ``TextEase`` *(Text editor that prioritizes accessibility.It allows users to write and edit text while receiving audio feedback in real-time while the user types. The editor will speak out loud each character that is inputted, allowing for a more immersive writing experience. Additionally, the editor may provide spoken suggestions for grammar or spelling errors. TextEase can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing.)*
 
+.. image:: ./images/3dquest.png
+   :width: 100
+   :alt: Peritia Page Pal logo.
+- ``PagePal``  *(Designed to empower individuals with disabilities to effortlessly browse and read documents. With advanced text-to-speech capabilities, customizable text settings, and seamless screen reader compatibility, PagePal transforms any document into an accessible, inclusive reading experience. Whether you're managing PDFs, eBooks, PagePal ensures that information is within your reach.)*
+
+
 
 .. image:: ./images/3dquest.png
    :width: 100
