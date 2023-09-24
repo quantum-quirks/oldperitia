@@ -56,9 +56,9 @@ Here's a list of available tools that makes Peritia the most versatile Accessibi
    :alt: Peritia Neurolearn logo.
 - ``Neurolearn``  *(Designed to revolutionize the way we experience educational content. Neurolearn offers a captivating and immersive 3D environment where users can explore, learn and interact with objects. Neurolearn is tailored for individuals with neurodiverse disabilities and aims to provide an inclusive and accessible learning environment. Neurodiversity encompasses a range of conditions such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), dyslexia, and other cognitive and developmental differences)*
 
-   - ``3D Quest`` 
+    - ``Neurolearn 3D Quest`` 
 
-    - ``Sculptura`` is a creative and unique word derived from the word *sculpture*. In the context of a 3D objects animation app, Sculptura implies the idea of sculpting and shaping 3D objects in a digital environment, allowing users to manipulate objects in a three-dimensional space. It combines elements of sculpture and digital artistry.
+    - ``Neurolearn Sculptura`` is a creative and unique word derived from the word *sculpture*. In the context of a 3D objects animation app, Sculptura implies the idea of sculpting and shaping 3D objects in a digital environment, allowing users to manipulate objects in a three-dimensional space. It combines elements of sculpture and digital artistry.
 
 
 .. image:: ./images/blindsight.png
